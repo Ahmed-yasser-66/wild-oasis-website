@@ -1,4 +1,4 @@
-// File: C:\Users\Dell\Desktop\NextJs course\21-the-wild-oasis-website\final-6-after-server-actions\app\layout.js
+// File: C:\Users\Dell\Desktop\NextJs course\21-the-wild-oasis-website\my-wild-oasis\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
